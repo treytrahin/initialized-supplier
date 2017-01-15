@@ -1,4 +1,4 @@
-package com.treytrahin.misc.lazyinitialized;
+package com.treytrahin.misc.initializedsupplier;
 
 import java.util.function.Supplier;
 
