@@ -30,7 +30,7 @@ public class Example {
 }
 ```
 
-When ```doStuff()``` the output is:
+When ```doStuff()``` is run, the output is:
 
 ```
 Initialized
